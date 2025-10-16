@@ -12,4 +12,4 @@ redirect_from:
 CV
 =====================
 
-[**[CV]**](url)
+[**[CV]**](/files/resume.pdf)
