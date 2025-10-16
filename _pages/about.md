@@ -29,3 +29,5 @@ News
 
 [Jan 2025] Two papers were accepted to ICLR 2025!
 
+[Jan 2025] I was honored to receive the Hugh W. and Edna M. Donnan Fellowship! 
+
